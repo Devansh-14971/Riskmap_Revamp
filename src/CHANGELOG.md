@@ -13,12 +13,13 @@ Ver 0.1
 
 ------ Ever running changes ------
 
-. [Update the documentation as changes are made]
+. [Update the documentation as changes are made]--xx--
 
 ------ Slotted Changes ------
 
+- I WILL NOW BE PULLING a PRO GAMER MOVE
+- I'M moving THIS to PROD LEVEL
 
 Line 31 of Duplicates_Better.py -> os.environ['TF_KERAS_CACHE_DIR'] = resolve_path('..\models') ## Shift this hardcoded dependency to config file
 . Complete the documentation page
-
 . Aesthetic changes to the entire App
